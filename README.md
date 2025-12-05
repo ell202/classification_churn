@@ -14,8 +14,8 @@ If we could figure out why a customer leaves and when they leave with
 reasonable accuracy, it would immensely help the organization to
 strategize their retention initiatives manifold.
 
-In this project, we aim to find the likelihood of a customer leaving the
-organization, the key indicators of churn as well as the retention
+In this project, my aim is to find the likelihood of a customer leaving the
+Telco organization, the key indicators of churn as well as the retention
 strategies that can be implemented to avert this problem.
 
 ## Data Understanding
@@ -74,17 +74,17 @@ mailed check, Bank transfer(automatic), Credit card(automatic))
 
 **Churn** -- Whether the customer churned or not (Yes or No)
 
-## Instructions
+## Steps taken
 
-Your task is to understand the data and prepare it for model building.
-Your analysis or methods should incorporate the following steps.
+To understand the data and prepare it for model building.
+My analysis or methods should incorporate the following steps.
 
 1.  Hypothesis formation and Data Processing - Importing the relevant libraries and modules,
     Cleaning of Data, Check data types, Encoding Data labels etc.
 
 2.  Data Evaluation -- Perform bivariate and multivariate analysis, EDA
 
-See attached some useful resources \[ [Exploratory Data Analysis:
+Attached are some useful resources used for guidance \[ [Exploratory Data Analysis:
 Univariate, Bivariate, and Multivariate
 Analysis](https://www.enjoyalgorithms.com/blog/univariate-bivariate-multivariate-analysis)
 , [Univariate, Bivariate and Multivariate
@@ -94,7 +94,7 @@ Analysis](https://youtu.be/w_Tm-H-emRo) , [Exploratory Data Analysis
 3.  Build & Select Model -- Train Model on dataset and select the best
     performing model.
 
-4.  Evaluate your chosen Model.
+4.  Evaluate chosen Model.
 
 5.  Model Improvement.
 
@@ -102,9 +102,8 @@ Analysis](https://youtu.be/w_Tm-H-emRo) , [Exploratory Data Analysis
 
 7.  Key Insights and Conclusion.
 
-Upon completion of your project, you are required to write a blog post
-on your thought process on medium, LinkedIn, personal blog, or any other
-suitable blogging site.
+Upon completion of project, I purpose to write a blog post
+on my thought process on medium or most likely LinkedIn.
 
 ## Rubrics
 
